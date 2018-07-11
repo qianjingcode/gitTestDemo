@@ -1,2 +1,1 @@
-init 01
-init 02
+init 03
