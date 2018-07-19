@@ -1,1 +1,5 @@
 init2 01
+
+low boss
+low boss2
+low boss3
