@@ -8,7 +8,3 @@ low boss5
 low boos6
 boos7
 boos8
-boos11
-boos12
-boos13
-boos14
