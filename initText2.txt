@@ -22,6 +22,9 @@ boss19
 boss20
 boss21
 boss22
+boss28
+boss29
+boss30
 boss23
 boss24
 boss25
