@@ -25,3 +25,4 @@ boss22
 boss23
 boss24
 boss25
+boss26
