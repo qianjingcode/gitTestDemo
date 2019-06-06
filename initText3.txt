@@ -2,3 +2,4 @@ init3 01
 
 boss 1
 
+boos2
